@@ -9,3 +9,4 @@ The theme for this minigame will be (people who know me will guess it easily) **
 You are Homer, and you are at home just watching TV like any normal Wednesday morning. Marge needs some products from Kwik-E-Mart and you
 have to take all these products without any problem.
 
+(Work in progress...)
